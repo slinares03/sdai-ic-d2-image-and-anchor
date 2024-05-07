@@ -34,5 +34,10 @@ The scenario is that you've been hired to create a webpage for a local band. At 
 
 ---
 
-Attributions
+### Solution codebase 👀
+🛑 **Only use this as a reference** 🛑
+
+💾 **Not something to copy and paste** 💾
+
+**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/sdai-ic-d2-image-and-anchor/tree/solution)
 
