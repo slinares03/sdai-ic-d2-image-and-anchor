@@ -29,7 +29,7 @@ Should you need guidance on how to fork, open, edit, and maintain your codespace
 
 ![example_2](./assets/code_examples/example_2.png?raw=true)
 
-4. [ ] Now that we have a description, first change the word `Description` to `Gallery` and then put some images on the page. The band images are locatated in `assets/images`.
+4. [ ] Now that we have a description, add another H2 header titled `Gallery` and then put some images on the page. The band images are locatated in `assets/images`.
 
 ![example_3](./assets/code_examples/example_3.png?raw=true)
 
