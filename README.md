@@ -33,7 +33,7 @@ Should you need guidance on how to fork, open, edit, and maintain your codespace
 
 ![example_3](./assets/code_examples/example_3.png?raw=true)
 
-5. [ ] Notice how the images are too large? We can use the `height` and `width` attributes to quickly resize them: `height="200px"` or `width="400px"` for example. The `px stands for pixel. Try using one or both attributes per image to resize them to something more appropriate for the page adn refresh it to see your changes. This will require some trial and error in determining what values yield the best results.
+5. [ ] Notice how the images are too large? We can use the `height` and `width` attributes within the image tag to quickly resize them: `height="200px"` or `width="400px"` for example. The `px stands for pixel. Try using one or both attributes per image to resize them to something more appropriate for the page adn refresh it to see your changes. This will require some trial and error in determining what values yield the best results.
 
 6. [ ] Now we need a section for the band's shop. Add another `<h2>` tag with the text content set to Shop. Then create a `<p>` tag with a nested `<a>` tag within like in the screenshot. This is how we can create links within paragraphs. The `#` in the `href` is used as a placeholder when the destination of a hyperlink is not yet known. Since this is the main page, the store page is not yet complete so there is nothing to link to just yet.
 
